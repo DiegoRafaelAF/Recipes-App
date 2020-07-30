@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29e275a6.chunk.css",
+    "main.js": "/static/js/main.cc967579.chunk.js",
+    "main.js.map": "/static/js/main.cc967579.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fce06d4f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fce06d4f.js.map",
+    "static/js/2.a1666863.chunk.js": "/static/js/2.a1666863.chunk.js",
+    "static/js/2.a1666863.chunk.js.map": "/static/js/2.a1666863.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fcfbc4bc1ac87f5614b84307d55671e2.js": "/precache-manifest.fcfbc4bc1ac87f5614b84307d55671e2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.29e275a6.chunk.css.map": "/static/css/main.29e275a6.chunk.css.map",
+    "static/js/2.a1666863.chunk.js.LICENSE.txt": "/static/js/2.a1666863.chunk.js.LICENSE.txt",
+    "static/media/beef.svg": "/static/media/beef.ab0af8ef.svg",
+    "static/media/blackHeartIcon.svg": "/static/media/blackHeartIcon.b8913346.svg",
+    "static/media/breakfast.svg": "/static/media/breakfast.7779bd6d.svg",
+    "static/media/chicken.svg": "/static/media/chicken.f84f4988.svg",
+    "static/media/dessert.svg": "/static/media/dessert.92e5d541.svg",
+    "static/media/drink.svg": "/static/media/drink.c61472f6.svg",
+    "static/media/drinkIcon.svg": "/static/media/drinkIcon.f87c47c3.svg",
+    "static/media/exploreIcon.svg": "/static/media/exploreIcon.157945ff.svg",
+    "static/media/filter.svg": "/static/media/filter.37e525da.svg",
+    "static/media/goat.svg": "/static/media/goat.413f944a.svg",
+    "static/media/ProfileScreen.css": "/static/media/loginbackground.e994a3e0.jpg",
+    "static/media/meal.svg": "/static/media/meal.6e3fa5c0.svg",
+    "static/media/mealIcon.svg": "/static/media/mealIcon.b27ba19e.svg",
+    "static/media/profileIcon.svg": "/static/media/profileIcon.74e487e5.svg",
+    "static/media/searchIcon.svg": "/static/media/searchIcon.db812135.svg",
+    "static/media/shareIcon.svg": "/static/media/shareIcon.06215ed4.svg",
+    "static/media/whiteHeartIcon.svg": "/static/media/whiteHeartIcon.ea3b6ba8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fce06d4f.js",
+    "static/js/2.a1666863.chunk.js",
+    "static/css/main.29e275a6.chunk.css",
+    "static/js/main.cc967579.chunk.js"
+  ]
+}
